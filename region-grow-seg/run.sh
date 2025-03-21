@@ -1,6 +1,6 @@
 CAMINHO="."
 
-g++ $CAMINHO/main.cpp -o $CAMINHO/out.o $(pkg-config --cflags --libs opencv4)
+g++ $CAMINHO/main.cpp $CAMINHO/image_processor.cpp -o $CAMINHO/out.o $(pkg-config --cflags --libs opencv4)
 
 if [ $? -eq 0 ]; then
 	echo "Compilation successful. Running program..."
