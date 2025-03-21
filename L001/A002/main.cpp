@@ -1,0 +1,1 @@
+// Explique e exemplifique quais são os passos fundamentais em um sistema de processamento digital de imagens.

@@ -1,0 +1,1 @@
+// Quais as duas etapas constituintes do processo de digitalização de uma imagem? Defina cada uma delas.

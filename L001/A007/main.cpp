@@ -1,0 +1,1 @@
+// O que diferencia, basicamente, um filtro passa-baixas de um filtro passa-altas? Dê exemplos de cada um destes.
