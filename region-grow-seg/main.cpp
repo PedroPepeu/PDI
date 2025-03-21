@@ -8,6 +8,8 @@ using namespace std;
 Mat img;
 ImageProcessor imgProcessor;
 
+// int threshold(int, Point seed)
+
 void onMouse(int event, int x, int y, int flags, void* userdata) {
     if (event == EVENT_LBUTTONDOWN) {
         cout << "Mouse clicked at: (" << x << ", " << y << ")" << endl;
