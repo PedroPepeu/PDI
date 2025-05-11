@@ -1,1 +1,0 @@
-// Quais são os efeitos causados por uma redução espacial e por uma redução do número de tons de cinza sobre a qualidade da imagem?
